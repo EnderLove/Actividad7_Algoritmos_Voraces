@@ -1,0 +1,6 @@
+# Ejecutables compilados
+mochila_fraccional
+cobertura_antenas
+*.exe
+*.o
+a.out
